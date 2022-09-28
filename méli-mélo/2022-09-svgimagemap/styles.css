@@ -40,18 +40,28 @@
 .st4 {
 	fill: #F1F2F2;
 	stroke:#FFFFFF;
+	font-family: 'Noto Sans',sans-serif;
+	font-size: 66.613px;
+	text-decoration: none;
 }
 
 .st5 {
-	font-family: 'Arial-BoldMT';
+	font-family: 'Noto Sans',sans-serif;
+	font-size: 66.613px;
+	text-decoration: none;
 }
 
 .st6 {
+	font-family: 'Noto Sans',sans-serif;
 	font-size: 66.613px;
+	text-decoration: none;
 }
 
 .st7 {
 	fill: #414042;
+	font-family: 'Noto Sans',sans-serif;
+	font-size: 66.613px;
+	text-decoration: none;
 }
 
 .svgimagemap a:hover .st0,.svgimagemap a:active .st0,.svgimagemap a:focus .st0,.svgimagemap a:hover .st1,.svgimagemap a:active .st1, .svgimagemap a:focus .st1, .svgimagemap  a:hover .st2, .svgimagemap  a:active .st2, .svgimagemap  a:focus .st2, .svgimagemap a:hover .st3, .svgimagemap a:active .st3 , .svgimagemap a:focus .st3 {
